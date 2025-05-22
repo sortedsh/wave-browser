@@ -1,0 +1,22 @@
+Keyboard shortcuts
+- Right Control = Panic Mode
+- Control + T = New Tab = Chrome Tab
+- Control + Shift + T = Go back to Deleted Tab
+
+Settings
+- Can configure Panic Mode to a default (EG Canvas)
+- Dark / Light Mode
+- Uninstall
+- Credits
+
+Set as Default Browser
+- Find out a way
+
+Unblocker
+- Make it not or default use https:// (ts annoying orange)
+
+README.md
+
+# Wave-Browser
+Wave browser is an open-source browser based on a version of Chromium
+Wave does NOT have Cookies or History
