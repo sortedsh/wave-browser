@@ -15,6 +15,9 @@ Set as Default Browser
 Unblocker
 - Make it not or default use https:// (ts annoying orange)
 
+Wave Chat
+- Make an intergration to Wave Browser to allow chatting between other clients.
+
 README.md
 
 # Wave-Browser
